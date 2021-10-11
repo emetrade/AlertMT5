@@ -5,6 +5,7 @@ from threading import *
 from tkinter import *
 import time
 
+# Пробуем GitHub
 
 def make_window():
 
